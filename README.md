@@ -138,4 +138,5 @@ This guide is provided as-is. Issues related to the modification process may be 
 
 Last Updated: 2024 | Educational Use Only
 
+
 https://img.shields.io/badge/Support_Developers-Buy_Termius_License-green.svg
